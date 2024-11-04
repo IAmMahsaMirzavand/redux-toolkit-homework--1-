@@ -1,0 +1,31 @@
+
+ .job-list {
+  padding: 20px;
+  background-color: #f0fafa; 
+}
+
+.job-card {
+  border: none;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+
+}
+
+.company-logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.job-details {
+  color: #6c757d;
+}
+
+.badge {
+  font-size: 0.8rem;
+  padding: 5px 8px;
+  margin-left: 5px;
+}
+
+
